@@ -17,6 +17,9 @@ training provider. All personal data, company names, and Google Workspace
 identifiers have been removed or replaced with fictional examples — see
 [Data Privacy](#data-privacy) below.
 
+<img width="1437" height="772" alt="Screenshot 2026-09-03 at 14 01 25" src="https://github.com/user-attachments/assets/cd1bb1ba-e5d2-42ea-ae0e-93e0b2b2cbeb" />
+
+
 ## Business Problem
 
 Before this system existed, learner and employer information collected
@@ -60,6 +63,14 @@ flowchart LR
 See [`docs/workflow.md`](docs/workflow.md) for the full step-by-step
 walkthrough, and [`docs/architecture.md`](docs/architecture.md) for how
 the script is structured.
+
+<img width="1437" height="793" alt="Screenshot 2026-09-03 at 13 45 11" src="https://github.com/user-attachments/assets/aa447027-417e-4c36-99b4-9efc7d4876df" />
+
+<img width="1437" height="773" alt="Screenshot 2026-09-03 at 14 03 26" src="https://github.com/user-attachments/assets/67e96f91-2afe-4366-99b7-f877fbe6c024" />
+
+<img width="1440" height="900" alt="Screenshot 2026-09-03 at 13 48 51" src="https://github.com/user-attachments/assets/c5843350-fbd4-4a24-80f6-4b9619d019b5" />
+
+
 
 ## Key Features
 
